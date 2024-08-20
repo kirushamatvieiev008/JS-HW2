@@ -37,5 +37,6 @@
 
 // п'яте завдвння
 
-let floorNum = Number.parseFloat(Math.random() * 10);
-console.log(Math.floor(floorNum));
+// let floorNum = Number.parseFloat(Number.parseInt(Math.random() * 1000) / 100);
+// console.log(Math.floor(floorNum));
+// console.log(floorNum);
