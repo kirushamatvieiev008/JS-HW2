@@ -40,3 +40,21 @@
 // let floorNum = Number.parseFloat(Number.parseInt(Math.random() * 1000) / 100);
 // console.log(Math.floor(floorNum));
 // console.log(floorNum);
+
+// шосте завдання показував на уроці
+
+// сьоме завдання показував на уроці
+
+// восьме завдання
+
+// const square = prompt(`введіть число якого корень ви хочете дізнатись`);
+// const resoult = Math.sqrt(square);
+// console.log(resoult);
+
+// дев'яте завдання
+
+let x = 5;
+let y = `9`;
+console.log(Number.toString(x));
+console.log(Number.parseInt(y));
+
